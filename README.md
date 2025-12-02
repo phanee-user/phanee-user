@@ -12,6 +12,7 @@ Passionate about **Python, Django, MySQL, React.js**, and building projects that
 ## Skills
 
 **Programming Language:** Python
+
 **Frontend & Web:** HTML, CSS, JavaScript, React.js, Bootstrap  
 **Frameworks:** Django  
 **Database:** MySQL  
