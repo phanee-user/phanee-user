@@ -11,11 +11,11 @@ Passionate about **Python, Django, MySQL, React.js**, and building projects that
 
 ## Skills
 
-**Languages & Backend:** Python, SQL  
+**Programming Language:** Python
 **Frontend & Web:** HTML, CSS, JavaScript, React.js, Bootstrap  
 **Frameworks:** Django  
 **Database:** MySQL  
-**Tools:** Git, VS Code, APIs  
+**Tools:** Git,GitHub, VS Code
 
 ---
 
@@ -25,8 +25,8 @@ Passionate about **Python, Django, MySQL, React.js**, and building projects that
 - CLI-based quiz application using **Python** & **MySQL**  
 - Features: User registration/login, quiz taking, admin management  
 
-### 2. E-commerce Website (In Progress)  
-- Full-stack project using **Django & React.js**  
+### 2. E-commerce Website 
+- Build project using Django and python.  
 - Features: Product management, user authentication, shopping cart  
 
 ### 3. Credit Card Fraud Detection  
